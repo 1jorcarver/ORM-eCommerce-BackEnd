@@ -1,4 +1,4 @@
-# E-Commerce Backend Website
+# E-Commerce Back End Website
 
 ## Description 
 
@@ -28,7 +28,7 @@ The app is a back end to an e-commerce website which enables an internet retail 
     - use ecommerce_db
 - Use NPM run seed
 - Use NPM start
-- Go to PORT, localhost:3001
+- Use Insomnia to run CRUD tests on PORT, localhost:3001
 
 ## Credits
 - Trilogy, Module 13
